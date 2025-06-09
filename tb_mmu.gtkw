@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.123 (w)1999-2025 BSI
+[*] Sat Jun  7 11:08:45 2025
+[*]
+[dumpfile] "/home/gore/Projects/MMU/tb_mmu.vcd"
+[dumpfile_mtime] "Sat Jun  7 11:06:24 2025"
+[dumpfile_size] 7293
+[savefile] "/home/gore/Projects/MMU/tb_mmu.gtkw"
+[timestart] 59630000
+[size] 1920 988
+[pos] 51 45
+*-24.000000 110000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_mmu.
+[sst_width] 290
+[signals_width] 286
+[sst_expanded] 1
+[sst_vpaned_height] 259
+@28
+tb_mmu.uut.clk
+tb_mmu.uut.cs
+@29
+tb_mmu.uut.rw
+@22
+tb_mmu.uut.db[31:0]
+tb_mmu.uut.db_out[31:0]
+tb_mmu.uut.lab[31:0]
+tb_mmu.uut.match_mask[3:0]
+@28
+tb_mmu.uut.segfault
+tb_mmu.uut.protfault
+@22
+tb_mmu.uut.upper_pab[31:22]
+tb_mmu.uut.middle_pab[21:0]
+tb_mmu.uut.lower_pab[9:0]
+tb_mmu.uut.pab[41:0]
+[pattern_trace] 1
+[pattern_trace] 0
